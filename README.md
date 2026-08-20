@@ -4,18 +4,9 @@ A minimal Rainmeter skin that displays a random Stoic quote on your desktop, sty
 
 Quotes are pulled live from [stoic-quotes.com](https://www.stoic-quotes.com/).
 
-```
-              ·  S T O I C O R V M   V E R B A  ·
+![StoicQuote on the desktop](preview.png)
 
-        "Only an absolute fool values a man according
-         to his clothes, or according to his social
-         position, which after all is only something
-                  that we wear like clothing."
-
-                        ————
-
-                     S E N E C A
-```
+The header reads *STOICORVM VERBA* — Latin for "Words of the Stoics," spelled with `V` for `U` in the manner of Roman inscriptions.
 
 ## Features
 
@@ -76,6 +67,7 @@ Rainmeter's String meters don't reliably word-wrap on the `W` option alone — t
 | --- | --- |
 | `StoicQuote.ini` | The skin: measures, layout, and styling. |
 | `Wrap.lua` | Word-wraps the quote text across multiple lines. |
+| `preview.png` | Screenshot used in this README. |
 
 ## Credits
 
